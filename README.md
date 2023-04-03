@@ -14,6 +14,20 @@ System diagram
 ![image](https://user-images.githubusercontent.com/57862480/229506324-59fd4c2a-c335-47dc-a642-910f511c916d.png)
 
 
+object detection and reconigtion: COCO DATASET https://cocodataset.org/#home
+
+face recongition: Dlib library, custom images, face_recognition library 
+
+OCR: EASYOCR and EAST TEXT DETECTION 
+
+speech commands: Google speech commands dataset for word "up" WAKE WORD. Voice commads using "VOSK" Speech recongtion engine.
+
+Obstacle detection: Ultrsonic sensor 
+
+TTS:  Festivalspeech synthesis system
+
+
+
 Files:
 mainfinal.py contains the object and face recogntion 
 ultrasonic.py detects the distance from objects
