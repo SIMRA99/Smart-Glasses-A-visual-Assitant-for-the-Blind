@@ -1,7 +1,7 @@
 # Smart-Glasses-A-visual-Assitant-for-the-Blind
 
-Major Porject Thesis - Final year project Amity University Dubai 
-Publication 
+Major Porject Thesis :- Final year project- Department of Electronics and CS Engineering, Amity University Dubai.
+Publication:
 "Smart Glasses: A visual assistant for the blind"- IEEE MECON 2022 conference organized by Amity University Noida, UP. 
 (DOI: https://doi.org/10.1109/MECON53876.2022.9751975) -Mar 2022
 
